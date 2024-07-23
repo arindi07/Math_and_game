@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>fastmath</class>
+ <widget class="QDialog" name="fastmath">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>415</width>
+    <height>777</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Быстрая математика</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+  </property>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>190</y>
+     <width>321</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Легкий</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>350</y>
+     <width>321</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Средний</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>510</y>
+     <width>321</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Сложный</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>-10</x>
+     <y>0</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius : 15%</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="resource.qrc">
+     <normaloff>:/resource/img/icons8-назад-50.png</normaloff>:/resource/img/icons8-назад-50.png</iconset>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="resource.qrc"/>
+ </resources>
+ <connections/>
+</ui>

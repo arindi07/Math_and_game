@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>three</class>
+ <widget class="QDialog" name="three">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>413</width>
+    <height>784</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Главное меню</string>
+  </property>
+  <property name="whatsThis">
+   <string notr="true">background-color: rgb(255, 255, 255);</string>
+   <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>450</y>
+     <width>331</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Правда или Ложь</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>250</y>
+     <width>331</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Быстрая математика</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>350</y>
+     <width>331</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Интересная математика </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>550</y>
+     <width>331</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-radius: 10px;
+font: 15pt &quot;STXihei&quot;;
+    color: white;
+    transition: .2s linear;
+    background: #9370DB;
+ box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;</string>
+   </property>
+   <property name="text">
+    <string>Таблица умножения</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

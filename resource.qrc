@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/icons8-авторизация-256.png</file>
+        <file>img/play.png</file>
+        <file>img/icons8-старт-96.png</file>
+        <file>img/1617299326_20-p-belo-serii-fon-20.png</file>
+        <file>img/icons8-человек-64.png</file>
+        <file>img/icons8-человек-32.png</file>
+        <file>img/icons8-человек-45.png</file>
+        <file>img/word-image-3281-13-13.png</file>
+        <file>img/icons8-пользователь-50.png</file>
+        <file>img/icons8-назад-64.png</file>
+        <file>img/icons8-назад-50.png</file>
+        <file>img/photo_2024-05-13_20-08-17.jpg</file>
+        <file>img/t†°ђ®zh†_gђ≠ǵ¶•≠®p-1024x781.png</file>
+        <file>img/1618503889_52-funart_pro-p-oboi-fon-svetlo-serii-tsvet-54.jpg</file>
+        <file>img/316-032b2cc936860b03048302d991c3498f.jpg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>img/teacher.png</file>
+    </qresource>
+</RCC>
